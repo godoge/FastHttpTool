@@ -1,4 +1,4 @@
-package com.likpia.fasthttptool;
+package com.likpia.fasthttptooldemo;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -11,7 +11,6 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 
-import com.likpia.fasthttptool.ui.ApiLogListActivity;
 
 import static android.content.ContentValues.TAG;
 

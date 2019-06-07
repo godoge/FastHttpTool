@@ -1,4 +1,4 @@
-package com.likpia.fasthttptool.ui;
+package com.likpia.fasthttptooldemo;
 
 import android.app.Activity;
 import android.content.ClipData;
@@ -17,7 +17,6 @@ import android.widget.Toast;
 
 
 import com.likpia.fasthttptool.log.Log;
-import com.likpia.fasthttptool.R;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
