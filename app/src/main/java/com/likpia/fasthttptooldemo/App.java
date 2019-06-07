@@ -3,6 +3,7 @@ package com.likpia.fasthttptooldemo;
 import android.app.Application;
 
 import com.likpia.fasthttptool.http.MyRequestTool;
+import com.likpia.fasthttptooldemo.utils.CommonUtils;
 
 
 public class App extends Application {

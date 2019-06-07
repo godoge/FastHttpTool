@@ -1,4 +1,4 @@
-package com.likpia.fasthttptooldemo;
+package com.likpia.fasthttptooldemo.ui;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.likpia.fasthttptooldemo.apitool.BaiduSearchTool;
+import com.likpia.fasthttptooldemo.R;
 
 
 public class MainActivity extends Activity {

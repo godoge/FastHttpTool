@@ -1,4 +1,4 @@
-package com.likpia.fasthttptooldemo;
+package com.likpia.fasthttptooldemo.apitool;
 
 import com.likpia.fasthttptool.http.MyRequestTool;
 import com.likpia.fasthttptool.http.OkHttpUtils;

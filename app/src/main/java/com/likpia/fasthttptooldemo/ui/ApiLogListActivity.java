@@ -1,4 +1,4 @@
-package com.likpia.fasthttptooldemo;
+package com.likpia.fasthttptooldemo.ui;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import com.likpia.fasthttptool.log.Log;
 import com.likpia.fasthttptool.log.LogManager;
+import com.likpia.fasthttptooldemo.adapter.LogAdapter;
+import com.likpia.fasthttptooldemo.R;
 
 import java.util.List;
 
